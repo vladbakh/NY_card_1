@@ -1,0 +1,8 @@
+{
+  "name": "ny-ai-card",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.25.0"
+  }
+}
